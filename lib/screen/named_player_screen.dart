@@ -81,6 +81,7 @@ class _NamedScreenState extends State<NamedScreen> {
               ),
               SizedBox(
                 height: 15,
+                width: 5,
               ),
               ElevatedButton(
                 onPressed: () {
